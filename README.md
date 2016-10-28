@@ -1,8 +1,8 @@
-# CS294 RISE Class Github Pages Website
+# DS100 RISE Class Github Pages Website
 
 To contribute to this class fork this repo and send pull requests with any changes to the content.
 
-This website is written using Jekyll Bootstrap with some modifications to improve support for github pages. 
+This website is written using Jekyll Bootstrap with some modifications to improve support for github pages.
 
 # Building Locally
 
@@ -21,7 +21,7 @@ gem install bundle
 then to setup the Jekyll build environment run:
 
 ```bash
-cd path/to/cs294-rise-fa16
+cd path/to/spring-2017
 bundle install
 ```
 
